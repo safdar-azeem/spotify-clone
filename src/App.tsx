@@ -1,7 +1,7 @@
 import Routers from "./routers/Routers";
 import Aside from "./components/common/Aside";
 import Header from "./components/common/Header";
-import SongPlayer from "./components/common/SongPlayer/SongPlayer";
+import SongPlayer from "./components/SongPlayer/SongPlayer";
 
 function Layout() {
   return (
