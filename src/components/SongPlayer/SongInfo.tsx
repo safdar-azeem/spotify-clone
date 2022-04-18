@@ -7,7 +7,7 @@ interface SongInfoProps {
 
 const SongInfo: React.FC<SongInfoProps> = ({ currentMusic }) => {
   return (
-    <div className="flex items-center gap-x-2 w-[250px]">
+    <div className="flex gap-x-2 items-center w-[250px]">
       <img
         width={60}
         height={50}
